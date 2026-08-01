@@ -153,58 +153,7 @@ Interested in solving problems involving
 
 ---
 
-# 🗄 SQL
 
-```sql
-SELECT patient_name,
-       diagnosis,
-       treatment
-FROM healthcare_data
-WHERE diagnosis = 'Diabetes'
-ORDER BY admission_date DESC;
-```
-
-Learning
-
-✔ SELECT
-
-✔ WHERE
-
-✔ GROUP BY
-
-✔ HAVING
-
-✔ ORDER BY
-
-✔ Aggregate Functions
-
-✔ Joins
-
-✔ Subqueries
-
-✔ Window Functions
-
----
-
-# 📂 featured projects
-
-🩺 BMI Calculator
-
-📊 Healthcare Data Analysis
-
-❤️ Heart Disease Prediction
-
-🧬 Diabetes Prediction
-
-📈 COVID-19 Dashboard
-
-🤖 Machine Learning Projects
-
-🐍 Python Practice
-
-📚 SQL Practice
-
----
 
 # 🌱 currently learning
 
@@ -286,37 +235,3 @@ roadmap = [
 
 </div>
 
-## 📂 My Learning Journey
-
-```text
-📁 Learning Roadmap
-
-├── 🐍 Python
-│   ├── python-fundamentals
-│   ├── object-oriented-python
-│   ├── python-mini-projects
-│
-├── 🗄 SQL
-│   ├── sql-basics
-│   ├── healthcare-sql
-│
-├── 📊 Statistics
-│   ├── descriptive-statistics
-│   ├── probability
-│   └── hypothesis-testing
-│
-├── 📈 Data Science
-│   ├── pandas-projects
-│   ├── numpy-practice
-│   └── exploratory-data-analysis
-│
-├── 🤖 Machine Learning
-│   ├── linear-regression
-│   ├── heart-disease-prediction
-│   └── diabetes-prediction
-│
-└── 🏥 Healthcare
-    ├── hospital-dashboard
-    ├── healthcare-analysis
-    └── patient-risk-analysis
-```
