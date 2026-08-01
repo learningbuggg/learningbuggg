@@ -285,3 +285,38 @@ roadmap = [
 🌷 Thanks for visiting my profile and make sure you connect and share your vibe knowledge!
 
 </div>
+
+## 📂 My Learning Journey
+
+```text
+📁 Learning Roadmap
+
+├── 🐍 Python
+│   ├── python-fundamentals
+│   ├── object-oriented-python
+│   ├── python-mini-projects
+│
+├── 🗄 SQL
+│   ├── sql-basics
+│   ├── healthcare-sql
+│
+├── 📊 Statistics
+│   ├── descriptive-statistics
+│   ├── probability
+│   └── hypothesis-testing
+│
+├── 📈 Data Science
+│   ├── pandas-projects
+│   ├── numpy-practice
+│   └── exploratory-data-analysis
+│
+├── 🤖 Machine Learning
+│   ├── linear-regression
+│   ├── heart-disease-prediction
+│   └── diabetes-prediction
+│
+└── 🏥 Healthcare
+    ├── hospital-dashboard
+    ├── healthcare-analysis
+    └── patient-risk-analysis
+```
