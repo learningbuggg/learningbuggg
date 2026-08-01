@@ -153,38 +153,6 @@ Interested in solving problems involving
 
 ---
 
-
-
-# 🌱 currently learning
-
-```python
-roadmap = [
-
-    "Python",
-
-    "Object-Oriented Programming",
-
-    "SQL",
-
-    "Statistics",
-
-    "Pandas",
-
-    "NumPy",
-
-    "Data Visualization",
-
-    "Machine Learning",
-
-    "Healthcare Analytics",
-
-    "Deep Learning"
-
-]
-```
-
----
-
 # 🎯 goals
 
 □ Master Python
