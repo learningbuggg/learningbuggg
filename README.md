@@ -1,205 +1,158 @@
-<div align="center">
+ <div align="center">
 
-# hi, i'm khyati kambalia 🌷
+# KHYATI KAMBALIA
 
-### a health data science student
+### Healthcare × Data Science × Artificial Intelligence
 
-*using data to build a healthier future.*
+**MSc Data Science Student | Cardiovascular Technology Graduate**
 
-Python • SQL • Statistics • Machine Learning • AI • Healthcare
+*Exploring the intersection of clinical knowledge, data, and intelligent systems.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-181818?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/learningbuggg)
 
 </div>
 
-<br>
-
 ---
 
-# ♡ about me
+## 01 / About
+
+I'm a Data Science postgraduate student with a background in Cardiovascular Technology.
+
+My interests lie in applying statistics, machine learning, and artificial intelligence to healthcare problems, particularly cardiovascular data analysis and predictive modeling.
+
+Currently strengthening my foundations in Python, SQL, statistics, and machine learning while working toward a career in Healthcare AI.
 
 ```python
 class Khyati:
-
-    name = "Khyati Kambalia"
-
-    role = "Health Data Science Student"
+    education = [
+        "MSc Data Science",
+        "BSc Cardiovascular Technology (Hons)"
+    ]
 
     interests = [
-        "Healthcare Analytics",
-        "Artificial Intelligence",
+        "Healthcare AI",
         "Machine Learning",
-        "Data Science",
+        "Cardiovascular Data Science",
         "Predictive Analytics",
         "Medical Research"
     ]
 
-    currently_learning = [
+    current_focus = [
         "Python",
         "SQL",
         "Statistics",
-        "Pandas",
-        "NumPy",
-        "Matplotlib",
-        "Seaborn",
-        "Scikit-Learn"
+        "Machine Learning"
     ]
 
-    goal = "Transform healthcare data into meaningful insights."
+    goal = "Build responsible, data-driven healthcare solutions."
 ```
 
 ---
 
-# 🌷 tech stack
+## 02 / Technical Stack
 
-### Programming
+**Programming & Development**
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
 </p>
 
-### Python Libraries
+**Data Science & Machine Learning**
 
-```text
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-Learn
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn`
 
-(OpenCV, TensorFlow, Streamlit — learning next)
-```
+**Currently Exploring**
 
----
+`Statistical Analysis` · `Data Visualization` · `Machine Learning Fundamentals`
 
-# 📊 data science
+**Learning Next**
 
-✔ Data Cleaning
-
-✔ Data Wrangling
-
-✔ Exploratory Data Analysis (EDA)
-
-✔ Feature Engineering
-
-✔ Data Visualization
-
-✔ Statistical Analysis
-
-✔ Healthcare Analytics
-
-✔ Predictive Modeling
+`PyTorch` · `TensorFlow` · `Deep Learning` · `Streamlit`
 
 ---
 
-# 📈 statistics
+## 03 / Areas of Interest
 
-Currently learning:
-
-- Descriptive Statistics
-- Inferential Statistics
-- Mean • Median • Mode
-- Variance & Standard Deviation
-- Probability
-- Normal Distribution
-- Hypothesis Testing
-- Correlation
-- Regression
-- Confidence Intervals
-- Sampling Techniques
+| Domain | Focus |
+|---|---|
+| Healthcare Analytics | Clinical and hospital data analysis |
+| Cardiovascular AI | ECG signals and cardiovascular risk |
+| Machine Learning | Predictive modeling and model evaluation |
+| Data Science | Statistical analysis and visualization |
+| Medical Research | Evidence-based data exploration |
 
 ---
 
-# 🤖 machine learning
+## 04 / Selected Projects
 
-### Learning
+*Projects currently on my learning roadmap. Repository links will be added as work is completed.*
 
-- Linear Regression
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Decision Trees
-- Random Forest
-- Support Vector Machines
-- Naive Bayes
+### 01 — Cardiovascular Disease Risk Prediction
 
-### Next
+Exploring cardiovascular risk factors using public healthcare datasets and supervised machine learning.
 
-- XGBoost
-- Deep Learning
-- TensorFlow
-- PyTorch
-- NLP
-- Computer Vision
+`Python` `Pandas` `Scikit-learn` `Classification`
 
----
+**Status:** Planned
 
-# 🏥 healthcare
+### 02 — ECG Signal Analysis
 
-Interested in solving problems involving
+Exploring ECG waveform visualization, signal processing, and classification techniques.
 
-🩺 Disease Prediction
+`Python` `NumPy` `Signal Processing` `Machine Learning`
 
-❤️ Heart Disease Analysis
+**Status:** Planned
 
-🧬 Diabetes Prediction
+### 03 — Healthcare Analytics Dashboard
 
-📈 Hospital Analytics
+Designing an interactive dashboard to explore healthcare trends and communicate analytical findings.
 
-🧪 Medical Research
+`Python` `SQL` `Streamlit` `Data Visualization`
 
-📊 Patient Data Visualization
-
-📉 Healthcare Dashboards
+**Status:** Planned
 
 ---
 
-# 🎯 goals
+## 05 / GitHub Activity
 
-□ Master Python
+<div align="center">
 
-□ Become proficient in SQL
+<img src="https://github-readme-stats.vercel.app/api?username=learningbuggg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub statistics" />
 
-□ Learn Statistics deeply
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learningbuggg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Most used repository languages" />
 
-□ Build 25+ Data Science Projects
-
-□ Build Healthcare AI Projects
-
-□ Contribute to Open Source
-
-□ Land a Health Data Science Internship
+</div>
 
 ---
 
-# 📖 currently reading
+## 06 / Current Roadmap
 
-📘 Python for Data Analysis
-
-📗 Hands-On Machine Learning
-
-📙 Introduction to Statistical Learning
-
-📕 SQL for Data Analytics
+- [ ] Strengthen Python fundamentals
+- [ ] Develop SQL and database skills
+- [ ] Learn statistics for data science
+- [ ] Complete an end-to-end healthcare EDA project
+- [ ] Build and evaluate machine learning models
+- [ ] Publish three documented healthcare projects
+- [ ] Explore internship and entry-level opportunities
 
 ---
 
-# ☕ fun facts
+## 07 / Beyond the Code
 
-🌸 I enjoy learning through projects.
+I believe meaningful healthcare innovation requires both clinical understanding and technical expertise.
 
-🩺 I'm passionate about AI in healthcare.
-
-📊 I love turning raw data into meaningful stories.
-
-🌱 Every project teaches me something new.
+My goal is to develop that combination through continuous learning, practical projects, and responsible applications of AI.
 
 ---
 
 <div align="center">
 
-*"Every expert was once a beginner who never stopped learning."*
+*Learning continuously. Building thoughtfully.*
 
-🌷 Thanks for visiting my profile and make sure you connect and share your vibe knowledge!
+**Healthcare · Data Science · AI**
+
+[github.com/learningbuggg](https://github.com/learningbuggg)
 
 </div>
-
